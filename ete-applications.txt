@@ -1,2 +1,5 @@
 Channel - https://github.com/AntonioErdeljac?tab=repositories&q=&type=&language=&sort=stargazers
 Messenger Clone - https://github.com/AntonioErdeljac/next13-messenger
+Reddit Clone - https://github.com/tacticaltofu/reddit-clone
+Reddit Clone UI - https://github.com/SaiUpadhyayula/angular-reddit-clone
+Reddit Clone Backend - https://github.com/SaiUpadhyayula/spring-reddit-clone
