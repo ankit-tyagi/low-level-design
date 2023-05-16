@@ -18,3 +18,8 @@ Multiple Reference for LLD's
 6. https://github.com/imkgarg/Awesome-Software-Engineering-Interview/blob/master/LowLevelDesign.md
 7. https://github.com/sbvkrishna/low-level-design
 8. https://github.com/coding-parrot/Low-Level-Design
+
+
+HLD's
+1. https://github.com/InterviewReady/system-design-resources
+2. https://medium.com/@interviewready/top-20-system-design-questions-93778a597aee
